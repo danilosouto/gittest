@@ -16,5 +16,9 @@ m3.2
 m3.3
 c1.0
 m3.4
+<<<<<<< HEAD
 m3.5
 m3.6
+=======
+m3.5
+>>>>>>> branch 'master' of https://github.com/danilosouto/gittest
